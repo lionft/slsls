@@ -1,0 +1,29 @@
+{
+  "CONTRACT_ADDRESS": "0x5CeF55D2ed53Bd845453f4F9e62d62C9D1253aE1",
+  "OWNER_ADDRESS": "0xF4c0874a37bfd6C2cCf37ebA62278366D9f3B9fa",
+  "SCAN_LINK": "https://etherscan.io/address/0x5CeF55D2ed53Bd845453f4F9e62d62C9D1253aE1",
+  "NETWORK": {
+    "NAME": "ETHEREUM",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Crypto clone",
+  "SYMBOL": "Clone",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  
+  "COST1": 20000000000000000,
+  "COST2": 35000000000000000,
+
+  "COST4": 900000000000000,
+
+  "COST3": 800000000000000,
+
+  
+
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptoclone",
+  "SHOW_BACKGROUND": true
+}
